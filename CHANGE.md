@@ -39,3 +39,7 @@ root@hoyj:/mnt/new_storage#
 
 ```
 
+- finished script to download everything from objevt storage
+```bash
+  hoyj:~/github/hoyj/move_off_cloud$ ./download_all_from_cloud.sh
+```
